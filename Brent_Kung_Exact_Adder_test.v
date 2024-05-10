@@ -1,4 +1,4 @@
-module Brent_kung_Exact_tb;
+module Brent_kung_tb;
 
   parameter WIDTH = 16;
   reg [WIDTH-1:0] A, B;
