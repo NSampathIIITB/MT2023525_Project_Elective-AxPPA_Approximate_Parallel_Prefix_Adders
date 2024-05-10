@@ -14,7 +14,7 @@ module Brent_kung_tb;
     .Sum(Sum)
   );*/
   
-    Brent_Kung_Approx #(WIDTH) uut (
+  Brent_Kung_Approx #(WIDTH) dut (
     .A(A),
     .B(B),
     .Cin(Cin),
